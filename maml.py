@@ -363,5 +363,5 @@ class MAMLPPO():
 
 aa = MAMLPPO('Particles2D-v1')
 
-aa.train(100)
-
+# 12是训练次数
+aa.train(12)
