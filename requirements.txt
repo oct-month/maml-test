@@ -1,0 +1,6 @@
+cherry-rl==0.2.0
+free-mujoco-py==2.1.6
+gym==0.14.0
+learn2learn==0.2.0
+packaging==23.2
+tensorboard==2.14.0
